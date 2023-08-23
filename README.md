@@ -1,4 +1,29 @@
-<h1 align="center">--ｊｕｌｉｏ░ｃａｓｔｒｏ （機械）</h1>
-<!-- <p align="center">
-  <img width="" height="400px" alt="jake-chill" src=https://thumbs.gfycat.com/AliveHauntingGavial-size_restricted.gif>
-<p align="center"> -->
+
+<p align="center">
+  <img width="" height="400px" alt="jake-chill" src=https://cdn.discordapp.com/attachments/931554086816448566/1144044995951739004/pixels-neon2.gif>
+<p align="center">
+
+### Hi there 👋
+____
+
+## ⚡ Technologies stack:
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Prettier](https://img.shields.io/badge/-Prettier-273943?style=flat-square&logo=prettier)
+![ESLint](https://img.shields.io/badge/-ESLint-4930BD?style=flat-square&logo=eslint)
+![Husky](https://img.shields.io/badge/-Husky-555555?style=flat-square&logo=square)
+____
+
+## 📓 I'm interested in:
+
+Apesar de ainda não dominar toda a stack Angular, gradualmente absorverei os itens listados abaixo:
+- Gerenciamento de estado (NGRX / NGXS);
+- Monorepo (NX);
+- Microfrontend (Single SPA);
+- SSG/SSR (Analog);
+- Testes unitários (Jasmine / Jest);
+- Testes e2e (Cypress).
