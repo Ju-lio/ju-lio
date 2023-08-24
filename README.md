@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="" height="400px" alt="jake-chill" src=https://cdn.discordapp.com/attachments/931554086816448566/1144044995951739004/pixels-neon2.gif>
+  <img width="auto" height="auto" alt="jake-chill" src=https://cdn.discordapp.com/attachments/931554086816448566/1144044995951739004/pixels-neon2.gif>
 <p align="center">
 
 ### Hi there 👋
