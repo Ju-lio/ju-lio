@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="auto" height="auto" alt="jake-chill" src=https://i.ibb.co/vHjpt9K/imagem.png>
+  <img width="60%" height="60%" alt="jake-chill" src=https://i.ibb.co/vHjpt9K/imagem.png>
 <p align="center">
 
 ### Hi there 👋
