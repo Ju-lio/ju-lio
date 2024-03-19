@@ -1,9 +1,10 @@
+### Hi there 👋
+____
 
 <p align="center">
   <img width="60%" height="60%" alt="jake-chill" src=https://i.ibb.co/vHjpt9K/imagem.png>
 <p align="center">
 
-### Hi there 👋
 ____
 
 ## ⚡ Technologies stack:
