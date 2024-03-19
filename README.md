@@ -2,7 +2,7 @@
 ____
 
 <p align="center">
-  <img width="60%" height="60%" alt="jake-chill" src=https://i.ibb.co/vHjpt9K/imagem.png>
+  <img width="50%" height="50%" alt="jake-chill" src=https://i.ibb.co/vHjpt9K/imagem.png>
 <p align="center">
 
 ____
